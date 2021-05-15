@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SimmoTheGypo
-- 👀 I’m interested in bug data and data analytics
+- 👀 I’m interested in big data and data analytics
 - 🌱 I’m currently learning SQL online data analytics 
-- 💞️ I’m looking to collaborate on telco/Fi tech
+- 💞️ I’m looking to collaborate on telco/Fintech
 - 📫 How to reach me email: simmo@gmx.com
 
 <!---
